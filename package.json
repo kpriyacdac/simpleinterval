@@ -3,7 +3,7 @@
   "name": "simpleinterval",
   "version": "0.1.4",
   "description": "simpleinterval",
-  "main": "simpleinterval",
+  "main": "simple_interval",
   "repository": {
     "type": "git",
     "url": "https://github.com/kpriyacdac/simpleinterval"
