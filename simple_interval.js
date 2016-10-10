@@ -12,6 +12,16 @@ function updateZ(){
   z += 1;
   displayValues();
 }
+
+function updateall(){
 setInterval(updateX, 500);
 setInterval(updateY, 1000);
 setInterval(updateZ, 2000);
+}
+
+exports.simpleinterval = simpleinterval;
+exports.updateX = updateX;
+exports.updateY = updateY;
+exports.updateZ = updateZ;
+exports.displayValues = displayValues;
+exports.updateall = updateall;
