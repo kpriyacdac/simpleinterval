@@ -19,7 +19,7 @@ setInterval(updateY, 1000);
 setInterval(updateZ, 2000);
 }
 
-exports.simpleinterval = simpleinterval;
+
 exports.updateX = updateX;
 exports.updateY = updateY;
 exports.updateZ = updateZ;
